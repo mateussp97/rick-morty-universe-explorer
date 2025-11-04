@@ -15,9 +15,7 @@ Experience the app in action at [https://rick-morty-universe-explorer.vercel.app
 
 ## 🎥 Demo Video
 
-<video controls>
-  <source src="./public/demo.mp4" type="video/mp4">
-</video>
+![](./public/demo.gif)
 
 ## ✨ Features
 
@@ -168,26 +166,6 @@ The `EntitySearch` component is built to handle all entity types (characters, lo
 - ARIA labels for screen readers
 - Semantic HTML structure
 - Focus management for better UX
-
-## 📸 Screenshots
-
-### Character Search
-
-<video controls>
-  <source src="./public/details-character.mp4" type="video/mp4">
-</video>
-
-### Location Details
-
-<video controls>
-  <source src="./public/details-location.mp4" type="video/mp4">
-</video>
-
-### Episode View
-
-<video controls>
-  <source src="./public/details-episode.mp4" type="video/mp4">
-</video>
 
 ## 📦 Building for Production
 
