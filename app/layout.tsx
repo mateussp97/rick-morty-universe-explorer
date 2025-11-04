@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rick and Morty Character Search",
-  description: "Search for your favorite Rick and Morty characters with autocomplete",
+  title: "Rick & Morty Universe Explorer",
+  description: "Explore characters, locations, and episodes from the Rick and Morty multiverse",
 };
 
 export default function RootLayout({
